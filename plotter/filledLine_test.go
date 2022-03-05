@@ -9,7 +9,7 @@ import (
 	"log"
 	"testing"
 
-	"golang.org/x/exp/rand"
+	"math/rand"
 
 	"github.com/gopherd/plot"
 	"github.com/gopherd/plot/cmpimg"

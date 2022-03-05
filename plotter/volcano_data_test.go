@@ -6,7 +6,7 @@
 
 package plotter_test
 
-import "gonum.org/v1/gonum/mat"
+import "github.com/gopherd/gonum/mat"
 
 // Data extracted from RDatasets volcano data for the Maunga Whau volcano topographic data.
 var volcano = deciGrid{mat.NewDense(87, 61, []float64{

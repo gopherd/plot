@@ -7,7 +7,7 @@ package plotter_test
 import (
 	"log"
 
-	"gonum.org/v1/gonum/mat"
+	"github.com/gopherd/gonum/mat"
 	"github.com/gopherd/plot"
 	"github.com/gopherd/plot/palette"
 	"github.com/gopherd/plot/plotter"

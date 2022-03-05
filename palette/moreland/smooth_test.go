@@ -10,7 +10,7 @@ import (
 	"strings"
 	"testing"
 
-	"golang.org/x/exp/rand"
+	"math/rand"
 
 	"github.com/gopherd/plot/palette"
 )

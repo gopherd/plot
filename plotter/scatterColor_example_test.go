@@ -10,7 +10,7 @@ import (
 	"math"
 	"os"
 
-	"golang.org/x/exp/rand"
+	"math/rand"
 
 	"github.com/gopherd/plot"
 	"github.com/gopherd/plot/palette/moreland"

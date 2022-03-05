@@ -7,7 +7,7 @@ package plotter_test
 import (
 	"log"
 
-	"golang.org/x/exp/rand"
+	"math/rand"
 
 	"github.com/gopherd/plot"
 	"github.com/gopherd/plot/plotter"

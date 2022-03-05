@@ -9,9 +9,9 @@ import (
 	"math"
 	"testing"
 
-	"golang.org/x/exp/rand"
+	"math/rand"
 
-	"gonum.org/v1/gonum/mat"
+	"github.com/gopherd/gonum/mat"
 	"github.com/gopherd/plot"
 	"github.com/gopherd/plot/cmpimg"
 	"github.com/gopherd/plot/palette"
